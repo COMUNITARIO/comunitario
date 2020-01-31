@@ -4,7 +4,7 @@ description: civic tech studio focused on bridging the technological gap in publ
 # baseurl: "http://www.comunitar.io"
 # url: "http://www.comunitar.io"
 baseurl: "comunitario"
-url: ""
+url: "https://jordanjasuta.github.io/comunitario"
 logo: logo.png                                       # Site logo
 locale: en_US
 
