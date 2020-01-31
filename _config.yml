@@ -3,7 +3,7 @@ title: Comunitar.io
 description: civic tech studio focused on bridging the technological gap in public service
 # baseurl: "http://www.comunitar.io"
 # url: "http://www.comunitar.io"
-# baseurl: /comunitar.io
+baseurl: "comunitario"
 url: ""
 logo: logo.png                                       # Site logo
 locale: en_US
