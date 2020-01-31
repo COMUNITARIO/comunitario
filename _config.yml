@@ -1,7 +1,8 @@
 # Site
 title: Comunitar.io
 description: civic tech studio focused on bridging the technological gap in public service
-url: https://taylantatli.github.io/Halve
+# baseurl: "http://www.comunitar.io/"
+url: "http://www.comunitar.io/"
 logo: logo.png                                       # Site logo
 locale: en_US
 
