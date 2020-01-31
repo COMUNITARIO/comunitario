@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About Us
+# About Comunitar.io
 
 We are a multidisciplinary team of specialists working internationally to bring civically responsible tech to public service. Drawing on our diverse backgrounds, we tailor technological solutions to address the problems that hinder effective and transparent government.
 
