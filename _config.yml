@@ -7,7 +7,7 @@ description: civic tech studio focused on bridging the technological gap in publ
 
 # THESE URLS ARE FOR HOSTING ON THE WEBSITE
 # baseurl: "comunitario"
-url: "https://comunitario.github.io/comunitario"
+url: "https://comunitario.github.io/"
 
 logo: logo.png                                       # Site logo
 locale: en_US
