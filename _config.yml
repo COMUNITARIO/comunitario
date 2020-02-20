@@ -3,11 +3,12 @@ title: Comunitar.io
 description: civic tech studio focused on bridging the technological gap in public service
 
 # THESE URLS ARE FOR TESTING LOCALLY
-# url: ""
+url: ""
+baseurl:
 
 # THESE URLS ARE FOR HOSTING ON THE WEBSITE
-baseurl: "comunitario"
-url: "https://comunitario.github.io/"
+# baseurl: "comunitario"
+# url: "https://comunitario.github.io/"
 
 logo: logo.png                                       # Site logo
 locale: en_US
