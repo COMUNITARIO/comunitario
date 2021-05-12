@@ -1,3 +1,3 @@
-Sitio web base para Comunitar.io, construido por Jordan Jasuta Fischer. 
+Base de sitio web para Comunitar.io, construida por Jordan Jasuta Fischer. 
 
 Disponible en https://comunitario.github.io/comunitario/
