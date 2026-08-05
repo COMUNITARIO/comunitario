@@ -13,9 +13,9 @@ tag:
 
 This article was originally posted on June 10, 2019 to the Inter-American Development Bank blog _Sustainable Cities_. It has since been [archived](https://web.archive.org/web/20260113002055/https://blogs.iadb.org/ciudades-sostenibles/en/datum-open-transit-mapping-dominican-republic-santiago-caballeros/) on that blog and posted here.
 
-# DATUM: a resource center for participatory urban transit mapping — The case of Santiago de los Caballeros
+## The case of Santiago de los Caballeros
 
-Este artículo está también disponible en / This post is also available in: Spanish
+Este artículo está también disponible en / This post is also available in: [Spanish](2019-06-10-datum-santiago-caballeros-esp.md)
 
 
 Growing urban populations in Latin American and Caribbean (LAC) cities put an enormous pressure on transport systems, especially in sprawling cities with increasingly far-flung residents. In this context it is essential to facilitate the design of public infrastructure in an efficient and participatory way.
@@ -26,10 +26,12 @@ Community mapping of urban infrastructure can play a central role. In 2019, to i
 
 To inaugurate the platform, DATUM supported a pilot mapping in Santiago de los Caballeros, Dominican Republic. Historically, Santiagueros didn’t have standardized information about public transportation routes. Neither Google Maps, nor Moovit, nor any other application or platform, be it global or local, could offer information on what bus or what route to take to get to work or leisure. This left residents reliant on informal methods like ‘word of mouth’ to get around.
 
+![Google Maps Transit not available](../images/DATUM_santiago_caballeros/Screenshot.png)
 
-Before the project began, Google Maps didn’t show any information on public transport
+*Before the project began, Google Maps didn’t show any information on public transport*
 
-![Santiago de los Caballeros on Google Maps](SantiagoCaballeros.gif)
+![Santiago de los Caballeros on Google Maps](../images/DATUM_santiago_caballeros/SantiagoCaballeros.gif)
+
 *After the DATUM pilot was implemented, Santiago de los Caballeros became the first city in the Caribbean where Google Maps can now provide public transport information*
 
 And so, DATUM launched Mapeando Santiago in June 2019. The project includes trainings, public transit route mapping, GTFS data processing, and a complementary mapping of accessibility and security conditions for elderly and disabled residents that included participation from a number of local actors every step of the way.
@@ -37,6 +39,7 @@ And so, DATUM launched Mapeando Santiago in June 2019. The project includes trai
 ### Participation as a basic principle
 
 ![Student volunteers from the Mapeando Santiago project](../images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
+
 *Student volunteers from the Mapeando Santiago project. Source: IDB 2019*
 
 The Mapeando Santiago project placed special attention on the participation of city residents and on understanding the needs of regular transport users. In collaboration with Santiago municipal authorities, CDES, the Catholic Pontific University Madre y Maestra (PUCMM),transport operators and users, and organizations representing disabled groups, the mapping was guaranteed to be a truly inclusive community project. The participation of local groups encourages the continuation of the project in the long term, builds local capacity, and allows services and policies to be designed at the local level.
@@ -46,11 +49,13 @@ The Mapeando Santiago project placed special attention on the participation of c
 Thirty students from local universities were trained on the MapMap mobile app and best practices for the mapping exercise. The students – who came to the project from PUCMM, the Autonomous University of Santo Domingo, the Technological Univeristy of Santiago y la National Evangelical University – traveled along 29 urban routes and 25 off-shoots, and 6 interurban routes, recording georeferenced data on the routes and stops with the app.
 
 ![MapMap open-source code application](../images/DATUM_santiago_caballeros/003_mapmap.png)
+
 *Screenshot. Open-source app MapMap. Source: MapMap*
 
 Another open-source app, Mapillary, was used to collect images of the public space along transport routes. In total, 120 trips were recorded and processed.
 
 ![Mapillary open-source code application](../images/DATUM_santiago_caballeros/004_mapillary.png)
+
 *Screenshot. Mapillary, an open-source app. Source: Mapillary*
 
 The standard GTFS format allowed the data to be shared with Google Maps, which can now inform trips on public transport for the first time in the Caribbean.
@@ -62,6 +67,7 @@ The need to collect information on public transport conditions and the importanc
 1. A group of 7 students audited 3205 photos of the public space (streets and sidewalks) around 8 routes. 24 indicators were analyzed in each of the images collected   to produce maps and data that show what public spaces required intervention.
 
 ![Volunteers analyzing 5 attributes of public space](../images/DATUM_santiago_caballeros/005_analizando_5_atributos.png)
+
 *Volunteers analyze 5 aspects of public space in each image: accessibility, perception of security, walkability, frequency of use and comfort. Source: IDB 2019*
 
 2. Five civil society organizations accompanied DATUM organizers as walking focus groups to evaluate the accessibility and security conditions on the way to and from public transport. The following areas of the city were analyzed:
@@ -69,26 +75,31 @@ The need to collect information on public transport conditions and the importanc
   - Cienfuegos, the area of the city where public transport is most used according to the Integral Plan for Sustainable Urban Mobility (PIMUS), also deals with problems like inadequate infrastructure and informal housing.
 
 ![Community organizations evaluating security](../images/DATUM_santiago_caballeros/006_organizaciones_comunitarias_evaluaron.png)
+
 *In Cienfuegos, 12 members of community organizations evaluated security and accessibility. Source: IDB 2019*
 
   - In Los Pepines, a neighborhood where a school for the blind is located, accessibility was evaluated by 4 members of the Cibao Association of the Blind and 11 volunteers with visual disabilities.
 
 ![Volunteers identifying obstacles](../images/DATUM_santiago_caballeros/007_voluntarios_identificaron_obstaculos.png)
+
 *Volunteers with visual disabilities identified obstacles and Shared mobility practices. Source: IDB 2019*
 
   - Additionally, 9 women, 1 man, and 1 child reviewed route security in the city center, the most common destination in the city, with a focus on gender issues.
 
 ![Participants review security](../images/DATUM_santiago_caballeros/008_Participantes_revision_seguridad.png)
+
 *Participants from the Fundación Mujer e Iglesia, the coordinator of the group Mujeres del Cibao and the Núcleo de Apoyo a la Mujer joined the initiative to review security in the city center*
 
 3. A survey was circulated to better understand who uses public transportation, what they use it for, and how services can be improved from their perspective. The survey revealed the demography, mobility habits, and perceptions of public transportation of the respondents.
 
 ![Survey responses](../images/DATUM_santiago_caballeros/009_respuestas_encuesta.png)
+
 *500 survey responses were collected in the 3 weeks that the Survey was active*
 
 The information collected in the complementary mapping will be shared on September 27 with all participants and authorities of Santiago for their use in decision making. The most eloquent result of the pilot was the launch the first map of urban routes in the city.
 
 ![Comprehensive map](../images/DATUM_santiago_caballeros/010_Mapa_comprensivo.png)
+
 *Comprehensive map of urban transport routes in Santiago de los Caballeros*
 
 ### New experiences
@@ -97,7 +108,7 @@ Mapeando Santiago demonstrated a successful community mapping initiative using m
 
 ![Motoconcho drivers](../images/DATUM_santiago_caballeros/011_conductores_motoconchos.png)
 
-^The participation of ‘motoconcho’ (motorbike taxi) drivers and other transport providers contributed a unique and indispensable perspective to the project. Source: IDB 2019^
+*The participation of ‘motoconcho’ (motorbike taxi) drivers and other transport providers contributed a unique and indispensable perspective to the project. Source: IDB 2019*
 
 The experiences and results coming out of Mapeando Santiago will be presented at the closing event on Friday, September 27th. The data will be made available in the DATUM online portal, and for use in the IDB-sponsored hackathon that will be hosted in the Dominican Republic in the coming months, to reinforce local capacity using GTFS data and geospatial analysis.
 
@@ -126,13 +137,12 @@ View this post on Instagram
             border: 1px solid #e1e1e1;
             border-radius: 5px;
             padding: 15px;
-            font-family: Arial, sans-serif;
+            font-size: 0.75rem;
             color: #333;
         }
         .author-avatar {
             width: 80px;
             height: 80px;
-            border-radius: 50%;
             object-fit: cover;
             flex-shrink: 0;
             vertical-align: top;
@@ -202,7 +212,7 @@ View this post on Instagram
         <img src="../images/DATUM_santiago_caballeros/Patricio.jpg" alt="Patricio Zambrano Barragan" class="author-avatar">
         <div class="author-content">
             <h3 class="author-name">Patricio Zambrano Barragán</h3>
-            <p class="author-bio">Patricio Zambrano-Barragán was a Housing and Urban Development Specialist at the Inter-American Development Bank. He currently led urban development projects throughout Latin America and the Caribbean, including housing policy and finance projects; resilient urban infrastructure; and geospatial and civic data analytics. Prior to joining the IDB, he led research on territorial management and climate-ready infrastructure at the Massachusetts Institute of Technology and the Natural Resources Defense Council (NRDC). Patricio has worked with the Office of the Deputy Mayor in Quito, Ecuador; with the New York City Department of Housing Preservation and Development (HPD) on distressed asset financing; and as a management consultant with New York-based Katzenbach Partners. Patricio is a doctoral candidate in City and Regional Planning at the University of Pennsylvania, and holds a Master's in City and Regional Planning from the Massachusetts Institute of Technology and a B.A. in Political Science from Yale University.</p>
+            <p class="author-bio">Patricio Zambrano-Barragán trabajó como especialista senior en Desarrollo Urbano y Vivienda en el Banco Interamericano de Desarrollo (BID). Trabajó en varios países de América Latina y el Caribe en proyectos de politica y financiamiento de vivienda; infraestructura urbana resiliente; y análisis geospacial y de datos cívicos. Previamente, lideró proyectos de investigación sobre gestión territorial e infrastructura resiliente para el Massachusetts Institute of Technology y el Natural Resources Defense Council (NRDC). Ha trabajado en el Departamento de Desarrollo y Preservación de Vivienda de la Ciudad de Nueva York en programas de financiamiento de proyectos en riesgo; y como consultor para empresas de energía y telecomunicaciones. Patricio es actualmente candidato a PhD en Planificación Urbana en la Universidad de Pennsylvania, cuenta con una Maestría en Planificación Urbana y Regional del Massachusetts Institute of Technology y un Bachelor en ciencias políticas de la Universidad de Yale.</p>
         </div>
     </div>
 
@@ -212,7 +222,7 @@ View this post on Instagram
         <img src="../images/DATUM_santiago_caballeros/Edgar-Lemus.jpg" alt="Edgar Lemus" class="author-avatar">
         <div class="author-content">
             <h3 class="author-name">Edgar Lemus</h3>
-            <p class="author-bio">Edgar is a map-maker and civic technologist with a background in Environmental Science, Policy and Management. At the IDB, he explores strategies in public service innovation in Latin America and the Caribbean. Particularly, through the deployment of open software for geostatistical analysis to improve the technical capacities of local governments, bridge the geographic data gap in the region, and build climate change resiliency.</p>
+            <p class="author-bio">Edgar trabaja con mapas y tecnología cívica para ciudades. Con estudios en ciencia, política y manejo ambiental; en el BID explora estrategias para la innovación tecnológica en la administración pública de países en Latinoamérica y el Caribe. Específicamente a través de la implementación de soluciones de software abierto para análisis geoestadístico y para la mejora de las capacidades técnicas de gobiernos locales con el objetivo de reducir la brecha de información geográfica en la región y construir resiliencia ante el cambio climático.</p>
         </div>
     </div>
 
@@ -222,7 +232,7 @@ View this post on Instagram
         <img src="../images/DATUM_santiago_caballeros/natalia.jpg" alt="Natalia Vidigal Coachman" class="author-avatar">
         <div class="author-content">
             <h3 class="author-name">Natalia Vidigal Coachman</h3>
-            <p class="author-bio">Natalia Coachman is a Housing and Urban Development Consultant at the Inter-American Development Bank. Previously, she worked as an urban consultant for the World Bank Group, as a researcher for MIT CoLab and Civic Data Design Lab, and as an architect leading projects in diverse Latin American Countries. Natalia holds a Master’s in City Planning from Massachusetts Institute of Technology and a B.A. in Architecture and Urbanism from Escola da Cidade de Sao Paulo.</p>
+            <p class="author-bio">Natalia Coachman es consultora de la División de Vivienda y Desarrollo Urbano del Banco Interamericano de Desarrollo. Previamente, ella trabajó como consultora urbana para el Banco Mundial, como investigadora para MIT Colab y Civic Data Design Lab, y como arquitecta liderando proyectos en diversos países de Latinoamerica. Natalia tiene una maestría en Plafinicación Urbana de Massachusetts Institute of Technology y un bachillerato en Arquitectura y Urbanismo de la Escola da Cidade de Sao Paulo.</p>
         </div>
     </div>
 
@@ -231,44 +241,6 @@ View this post on Instagram
 </body>
 </html>
 
-
-
-
-
-```
-David Escalante: Transportation Planning and Operations Manager at WRI México. David has worked as consultant in urban mobility planning in Mexico, Brazil, Argentina, Colombia, Peru and Panamá, focused on public transport projects. He was Planning Deputy Manager and Technical Coordinator of the General Direction Office for the Mexico City’s Bus Rapid Transit (Metrobus). David is an expert in tansportation modeling, public transport planing, implementation of BRT corridors and evaluation of operational and financial performance of transport systems. David is a Transportation Engineer and has been a profesor at the National Polytechnic Institute in México
-```
-
-```
-Tania Pérez: New Mobility Consultant, performs research, analysis and documentation of new mobility models to accompany cities in their understanding and possible regulation. She has experience as a public transport consultant at the Institute of Transportation and Development Policies. She has a degree in Industrial Design.
-```
-
-
-
-```
-Ana María Martínez: Consultant for WRI in the area of ​​Science and research.
-```
-
-
-```
-Jordan Fischer
-Jordan Jasuta Fischer trabaja en inteligencia artificial y análisis cognitivo en la división de sector público de IBM. Previamente, se especializaba en proyectos de código abierto, tecnología cívica y análisis geoespacial en Latinoamérica con el BID. Su experiencia en soluciones tecnológicas, gerencia de datos, y análisis avanzado en el campo del desarrollo internacional ha cubierto temas tan diversos como la administración pública, la salud pública, y los derechos humanos. Jordan tiene una maestría en Análisis de Negocios de la Universidad de George Washington y un bachillerato en Economía de la Universidad de Utah.
-```
-
-```
-Patricio Zambrano Barragán
-Patricio Zambrano-Barragán was a Housing and Urban Development Specialist at the Inter-American Development Bank. He currently led urban development projects throughout Latin America and the Caribbean, including housing policy and finance projects; resilient urban infrastructure; and geospatial and civic data analytics. Prior to joining the IDB, he led research on territorial management and climate-ready infrastructure at the Massachusetts Institute of Technology and the Natural Resources Defense Council (NRDC). Patricio has worked with the Office of the Deputy Mayor in Quito, Ecuador; with the New York City Department of Housing Preservation and Development (HPD) on distressed asset financing; and as a management consultant with New York-based Katzenbach Partners. Patricio is a doctoral candidate in City and Regional Planning at the University of Pennsylvania, and holds a Master's in City and Regional Planning from the Massachusetts Institute of Technology and a B.A. in Political Science from Yale University.
-```
-
-```
-Edgar Lemus
-Edgar is a map-maker and civic technologist with a background in Environmental Science, Policy and Management. At the IDB, he explores strategies in public service innovation in Latin America and the Caribbean. Particularly, through the deployment of open software for geostatistical analysis to improve the technical capacities of local governments, bridge the geographic data gap in the region, and build climate change resiliency.
-```
-
-```
-Natalia Vidigal Coachman
-Natalia Coachman is a Housing and Urban Development Consultant at the Inter-American Development Bank. Previously, she worked as an urban consultant for the World Bank Group, as a researcher for MIT CoLab and Civic Data Design Lab, and as an architect leading projects in diverse Latin American Countries. Natalia holds a Master’s in City Planning from Massachusetts Institute of Technology and a B.A. in Architecture and Urbanism from Escola da Cidade de Sao Paulo.
-```
 
 
 
