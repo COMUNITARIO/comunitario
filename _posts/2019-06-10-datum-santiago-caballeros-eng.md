@@ -3,7 +3,7 @@ layout: post
 title:  "DATUM: a resource center for participatory urban transit mapping"
 date:   2019-06-10
 excerpt: "The case of Santiago de los Caballeros"
-image: images/001_Voluntaria-captura-imágenes-del-entorno-urbano-.png
+image: images/DATUM_santiago_caballeros/001_Voluntaria.png
 tag:
 - civic tech
 - co-production
@@ -11,7 +11,7 @@ tag:
 - community mapping
 ---
 
-This article was originally posted on June 10, 2019 to the Inter-American Development Bank blog _Sustainable Cities_. It has since been [archived](https://web.archive.org/web/20260113002055/https://blogs.iadb.org/ciudades-sostenibles/en/datum-open-transit-mapping-dominican-republic-santiago-caballeros/) on that blog and posted here. 
+This article was originally posted on June 10, 2019 to the Inter-American Development Bank blog _Sustainable Cities_. It has since been [archived](https://web.archive.org/web/20260113002055/https://blogs.iadb.org/ciudades-sostenibles/en/datum-open-transit-mapping-dominican-republic-santiago-caballeros/) on that blog and posted here.
 
 Este artículo está también disponible en / This post is also available in: Spanish
 
@@ -31,9 +31,10 @@ After the DATUM pilot was implemented, Santiago de los Caballeros became the fir
 And so, DATUM launched Mapeando Santiago in June 2019. The project includes trainings, public transit route mapping, GTFS data processing, and a complementary mapping of accessibility and security conditions for elderly and disabled residents that included participation from a number of local actors every step of the way.
 
 Participation as a basic principle
-
+![Student volunteers from the Mapeando Santiago project](images/DATUM_santiago_caballeros/002_voluntarios-del-proyecto-Mapeando-Santiago.png)
 
 Student volunteers from the Mapeando Santiago project. Source: IDB 2019
+
 The Mapeando Santiago project placed special attention on the participation of city residents and on understanding the needs of regular transport users. In collaboration with Santiago municipal authorities, CDES, the Catholic Pontific University Madre y Maestra (PUCMM),transport operators and users, and organizations representing disabled groups, the mapping was guaranteed to be a truly inclusive community project. The participation of local groups encourages the continuation of the project in the long term, builds local capacity, and allows services and policies to be designed at the local level.
 
 Mapping the routes
