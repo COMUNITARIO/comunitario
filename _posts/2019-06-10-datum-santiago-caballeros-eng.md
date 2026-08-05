@@ -35,7 +35,7 @@ And so, DATUM launched Mapeando Santiago in June 2019. The project includes trai
 
 ### Participation as a basic principle
 
-![Student volunteers from the Mapeando Santiago project](/images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
+![Student volunteers from the Mapeando Santiago project](../images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
 ^Student volunteers from the Mapeando Santiago project. Source: IDB 2019^
 
 The Mapeando Santiago project placed special attention on the participation of city residents and on understanding the needs of regular transport users. In collaboration with Santiago municipal authorities, CDES, the Catholic Pontific University Madre y Maestra (PUCMM),transport operators and users, and organizations representing disabled groups, the mapping was guaranteed to be a truly inclusive community project. The participation of local groups encourages the continuation of the project in the long term, builds local capacity, and allows services and policies to be designed at the local level.
@@ -44,12 +44,12 @@ The Mapeando Santiago project placed special attention on the participation of c
 
 Thirty students from local universities were trained on the MapMap mobile app and best practices for the mapping exercise. The students – who came to the project from PUCMM, the Autonomous University of Santo Domingo, the Technological Univeristy of Santiago y la National Evangelical University – traveled along 29 urban routes and 25 off-shoots, and 6 interurban routes, recording georeferenced data on the routes and stops with the app.
 
-![MapMap open-source code application](images/DATUM_santiago_caballeros/003_mapmap.png)
+![MapMap open-source code application](../images/DATUM_santiago_caballeros/003_mapmap.png)
 ^Screenshot. Open-source app MapMap. Source: MapMap^
 
 Another open-source app, Mapillary, was used to collect images of the public space along transport routes. In total, 120 trips were recorded and processed.
 
-![Mapillary open-source code application](images/DATUM_santiago_caballeros/003_mapillary.png)
+![Mapillary open-source code application](../images/DATUM_santiago_caballeros/003_mapillary.png)
 ^Screenshot. Mapillary, an open-source app. Source: Mapillary^
 
 The standard GTFS format allowed the data to be shared with Google Maps, which can now inform trips on public transport for the first time in the Caribbean.
