@@ -29,14 +29,15 @@ To inaugurate the platform, DATUM supported a pilot mapping in Santiago de los C
 
 Before the project began, Google Maps didn’t show any information on public transport
 
-^After the DATUM pilot was implemented, Santiago de los Caballeros became the first city in the Caribbean where Google Maps can now provide public transport information^
+![Santiago de los Caballeros on Google Maps](SantiagoCaballeros.gif)
+*After the DATUM pilot was implemented, Santiago de los Caballeros became the first city in the Caribbean where Google Maps can now provide public transport information*
 
 And so, DATUM launched Mapeando Santiago in June 2019. The project includes trainings, public transit route mapping, GTFS data processing, and a complementary mapping of accessibility and security conditions for elderly and disabled residents that included participation from a number of local actors every step of the way.
 
 ### Participation as a basic principle
 
 ![Student volunteers from the Mapeando Santiago project](../images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
-^Student volunteers from the Mapeando Santiago project. Source: IDB 2019^
+*Student volunteers from the Mapeando Santiago project. Source: IDB 2019*
 
 The Mapeando Santiago project placed special attention on the participation of city residents and on understanding the needs of regular transport users. In collaboration with Santiago municipal authorities, CDES, the Catholic Pontific University Madre y Maestra (PUCMM),transport operators and users, and organizations representing disabled groups, the mapping was guaranteed to be a truly inclusive community project. The participation of local groups encourages the continuation of the project in the long term, builds local capacity, and allows services and policies to be designed at the local level.
 
@@ -45,12 +46,12 @@ The Mapeando Santiago project placed special attention on the participation of c
 Thirty students from local universities were trained on the MapMap mobile app and best practices for the mapping exercise. The students – who came to the project from PUCMM, the Autonomous University of Santo Domingo, the Technological Univeristy of Santiago y la National Evangelical University – traveled along 29 urban routes and 25 off-shoots, and 6 interurban routes, recording georeferenced data on the routes and stops with the app.
 
 ![MapMap open-source code application](../images/DATUM_santiago_caballeros/003_mapmap.png)
-^Screenshot. Open-source app MapMap. Source: MapMap^
+*Screenshot. Open-source app MapMap. Source: MapMap*
 
 Another open-source app, Mapillary, was used to collect images of the public space along transport routes. In total, 120 trips were recorded and processed.
 
-![Mapillary open-source code application](../images/DATUM_santiago_caballeros/003_mapillary.png)
-^Screenshot. Mapillary, an open-source app. Source: Mapillary^
+![Mapillary open-source code application](../images/DATUM_santiago_caballeros/004_mapillary.png)
+*Screenshot. Mapillary, an open-source app. Source: Mapillary*
 
 The standard GTFS format allowed the data to be shared with Google Maps, which can now inform trips on public transport for the first time in the Caribbean.
 
@@ -60,35 +61,41 @@ The need to collect information on public transport conditions and the importanc
 
 1. A group of 7 students audited 3205 photos of the public space (streets and sidewalks) around 8 routes. 24 indicators were analyzed in each of the images collected   to produce maps and data that show what public spaces required intervention.
 
-^Volunteers analyze 5 aspects of public space in each image: accessibility, perception of security, walkability, frequency of use and comfort. Source: IDB 2019^
+![Volunteers analyzing 5 attributes of public space](../images/DATUM_santiago_caballeros/005_analizando_5_atributos.png)
+*Volunteers analyze 5 aspects of public space in each image: accessibility, perception of security, walkability, frequency of use and comfort. Source: IDB 2019*
 
 2. Five civil society organizations accompanied DATUM organizers as walking focus groups to evaluate the accessibility and security conditions on the way to and from public transport. The following areas of the city were analyzed:
 
   - Cienfuegos, the area of the city where public transport is most used according to the Integral Plan for Sustainable Urban Mobility (PIMUS), also deals with problems like inadequate infrastructure and informal housing.
 
-^In Cienfuegos, 12 members of community organizations evaluated security and accessibility. Source: IDB 2019^
+![Community organizations evaluating security](../images/DATUM_santiago_caballeros/006_organizaciones_comunitarias_evaluaron.png)
+*In Cienfuegos, 12 members of community organizations evaluated security and accessibility. Source: IDB 2019*
 
   - In Los Pepines, a neighborhood where a school for the blind is located, accessibility was evaluated by 4 members of the Cibao Association of the Blind and 11 volunteers with visual disabilities.
 
-^Volunteers with visual disabilities identified obstacles and Shared mobility practices. Source: IDB 2019^
+![Volunteers identifying obstacles](../images/DATUM_santiago_caballeros/007_voluntarios_identificaron_obstaculos.png)
+*Volunteers with visual disabilities identified obstacles and Shared mobility practices. Source: IDB 2019*
 
   - Additionally, 9 women, 1 man, and 1 child reviewed route security in the city center, the most common destination in the city, with a focus on gender issues.
 
-^Participants from the Fundación Mujer e Iglesia, the coordinator of the group Mujeres del Cibao and the Núcleo de Apoyo a la Mujer joined the initiative to review security in the city center^
+![Participants review security](../images/DATUM_santiago_caballeros/008_Participantes_revision_seguridad.png)
+*Participants from the Fundación Mujer e Iglesia, the coordinator of the group Mujeres del Cibao and the Núcleo de Apoyo a la Mujer joined the initiative to review security in the city center*
 
 3. A survey was circulated to better understand who uses public transportation, what they use it for, and how services can be improved from their perspective. The survey revealed the demography, mobility habits, and perceptions of public transportation of the respondents.
 
-^500 survey responses were collected in the 3 weeks that the Survey was active^
+![Survey responses](../images/DATUM_santiago_caballeros/009_respuestas_encuesta.png)
+*500 survey responses were collected in the 3 weeks that the Survey was active*
 
 The information collected in the complementary mapping will be shared on September 27 with all participants and authorities of Santiago for their use in decision making. The most eloquent result of the pilot was the launch the first map of urban routes in the city.
 
-
-^Comprehensive map of urban transport routes in Santiago de los Caballeros^
+![Comprehensive map](../images/DATUM_santiago_caballeros/010_Mapa_comprensivo.png)
+*Comprehensive map of urban transport routes in Santiago de los Caballeros*
 
 ### New experiences
 
 Mapeando Santiago demonstrated a successful community mapping initiative using methodologies and tools suggested by DATUM. The results will tangibly improve the user experience on public transportation in Santiago, and the consistent involvement of community groups has left the city with well-trained and committed residents that will take up the monitoring, updating, and improvement of the mapping after its initial implementation.
 
+![Motoconcho drivers](../images/DATUM_santiago_caballeros/011_conductores_motoconchos.png)
 
 ^The participation of ‘motoconcho’ (motorbike taxi) drivers and other transport providers contributed a unique and indispensable perspective to the project. Source: IDB 2019^
 
@@ -105,6 +112,30 @@ View this post on Instagram
 
 
 #### Autores Invitados:
+
+
+
+:::::{grid-item-card} Jordan Jasuta Fischer
+::::{grid} 2
+:::{grid-item}
+:padding: 1 0 0 1
+:columns: 3
+![Contributor](https://avatars.githubusercontent.com/u/34176079?v=4 "github user")
+:::
+
+:::{grid-item}
+:padding: 0 1 1 1
+:columns: 9
+**[jordanjasuta](https://github.com/jordanjasuta)**
+_commits: 29_
+:::
+::::
+
++++
+AI Solutions Architect - IBM Consulting
+
+:::::
+
 
 ```
 David Escalante: Transportation Planning and Operations Manager at WRI México. David has worked as consultant in urban mobility planning in Mexico, Brazil, Argentina, Colombia, Peru and Panamá, focused on public transport projects. He was Planning Deputy Manager and Technical Coordinator of the General Direction Office for the Mexico City’s Bus Rapid Transit (Metrobus). David is an expert in tansportation modeling, public transport planing, implementation of BRT corridors and evaluation of operational and financial performance of transport systems. David is a Transportation Engineer and has been a profesor at the National Polytechnic Institute in México
