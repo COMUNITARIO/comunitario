@@ -15,7 +15,7 @@ This article was originally posted on June 10, 2019 to the Inter-American Develo
 
 ## The case of Santiago de los Caballeros
 
-Este artículo está también disponible en / This post is also available in: [Spanish](2019-06-10-datum-santiago-caballeros-esp.md)
+Este artículo está también disponible en / This post is also available in: [Spanish](./2019-06-10-datum-santiago-caballeros-esp.md)
 
 
 Growing urban populations in Latin American and Caribbean (LAC) cities put an enormous pressure on transport systems, especially in sprawling cities with increasingly far-flung residents. In this context it is essential to facilitate the design of public infrastructure in an efficient and participatory way.

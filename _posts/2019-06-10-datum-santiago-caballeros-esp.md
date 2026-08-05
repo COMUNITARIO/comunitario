@@ -15,15 +15,7 @@ Este artículo fue originalmente publicado el 10 de junio del 2019 al blog _Sust
 
 ## The case of Santiago de los Caballeros
 
-Este artículo está también disponible en / This post is also available in: [Inglés](2019-06-10-datum-santiago-caballeros-eng.md)
-
-
-
-DATUM: un centro de recursos para el mapeo participativo de tránsito urbano — El caso de Santiago de los Caballeros
-September 20, 2019 por Jordan Fischer - Patricio Zambrano Barragán - Edgar Lemus - Natalia Vidigal Coachman 1 Comentario
-
-Este artículo está también disponible en / This post is also available in: Inglés
-
+Este artículo está también disponible en / This post is also available in: [Inglés](./2019-06-10-datum-santiago-caballeros-eng.md)
 
 El crecimiento urbano y poblacional de las ciudades de América Latina y el Caribe (ALC) pone una enorme presión a los sistemas de transporte, especialmente en ciudades poco densas donde los residentes viven en lugares cada vez más dispersos. Por eso, es esencial facilitar un diseño de infraestructura pública de modo eficiente y participativo.
 
