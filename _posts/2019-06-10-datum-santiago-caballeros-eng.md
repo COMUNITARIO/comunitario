@@ -114,27 +114,125 @@ View this post on Instagram
 #### Autores Invitados:
 
 
+<html>
+<head>
+    <meta content="width=device-width, initial-scale=1.0">
+    <style>
+        .author-box {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            background-color: #f9f9f9;
+            border: 1px solid #e1e1e1;
+            border-radius: 5px;
+            padding: 15px;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+        .author-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            flex-shrink: 0;
+            vertical-align: top;
+        }
+        .author-name {
+            margin: 0 0 6px 0;
+            font-size: 1.25rem;
+            font-weight: bold;
+        }
+        .author-bio {
+            margin: 0 0 12px 0;
+            font-size: 0.95rem;
+            line-height: 1.4;
+            color: #555;
+        }
+        @media (max-width: 480px) {
+            .author-box {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
 
-:::::{grid-item-card} Jordan Jasuta Fischer
-::::{grid} 2
-:::{grid-item}
-:padding: 1 0 0 1
-:columns: 3
-![Contributor](https://avatars.githubusercontent.com/u/34176079?v=4 "github user")
-:::
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/david-escalante.jpg" alt="David Escalante" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">David Escalante</h3>
+            <p class="author-bio">Transportation Planning and Operations Manager at WRI México. David has worked as consultant in urban mobility planning in Mexico, Brazil, Argentina, Colombia, Peru and Panamá, focused on public transport projects. He was Planning Deputy Manager and Technical Coordinator of the General Direction Office for the Mexico City’s Bus Rapid Transit (Metrobus). David is an expert in tansportation modeling, public transport planing, implementation of BRT corridors and evaluation of operational and financial performance of transport systems. David is a Transportation Engineer and has been a profesor at the National Polytechnic Institute in México</p>
+        </div>
+    </div>
 
-:::{grid-item}
-:padding: 0 1 1 1
-:columns: 9
-**[jordanjasuta](https://github.com/jordanjasuta)**
-_commits: 29_
-:::
-::::
+<br>
 
-+++
-AI Solutions Architect - IBM Consulting
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/TaniaP.jpg" alt="Tania Perez" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Tania Pérez</h3>
+            <p class="author-bio">Tania Pérez: New Mobility Consultant, performs research, analysis and documentation of new mobility models to accompany cities in their understanding and possible regulation. She has experience as a public transport consultant at the Institute of Transportation and Development Policies. She has a degree in Industrial Design.</p>
+        </div>
+    </div>
 
-:::::
+<br>
+
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/AnaMaria.jpg" alt="Ana Maria Martínez: " class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Ana María Martínez</h3>
+            <p class="author-bio">Consultant for WRI in the area of ​​Science and research.</p>
+        </div>
+    </div>
+
+<br>
+
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/Jordan.png" alt="Jordan Jasuta Fischer" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Jordan Jasuta Fischer</h3>
+            <p class="author-bio">Jordan Jasuta Fischer trabaja en inteligencia artificial y análisis cognitivo en la división de sector público de IBM. Previamente, se especializaba en proyectos de código abierto, tecnología cívica y análisis geoespacial en Latinoamérica con el BID. Su experiencia en soluciones tecnológicas, gerencia de datos, y análisis avanzado en el campo del desarrollo internacional ha cubierto temas tan diversos como la administración pública, la salud pública, y los derechos humanos. Jordan tiene una maestría en Análisis de Negocios de la Universidad de George Washington y un bachillerato en Economía de la Universidad de Utah.</p>
+        </div>
+    </div>
+
+<br>
+
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/Patricio.jpg" alt="Patricio Zambrano Barragan" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Patricio Zambrano Barragán</h3>
+            <p class="author-bio">Patricio Zambrano-Barragán was a Housing and Urban Development Specialist at the Inter-American Development Bank. He currently led urban development projects throughout Latin America and the Caribbean, including housing policy and finance projects; resilient urban infrastructure; and geospatial and civic data analytics. Prior to joining the IDB, he led research on territorial management and climate-ready infrastructure at the Massachusetts Institute of Technology and the Natural Resources Defense Council (NRDC). Patricio has worked with the Office of the Deputy Mayor in Quito, Ecuador; with the New York City Department of Housing Preservation and Development (HPD) on distressed asset financing; and as a management consultant with New York-based Katzenbach Partners. Patricio is a doctoral candidate in City and Regional Planning at the University of Pennsylvania, and holds a Master's in City and Regional Planning from the Massachusetts Institute of Technology and a B.A. in Political Science from Yale University.</p>
+        </div>
+    </div>
+
+<br>
+
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/Edgar-Lemus.jpg" alt="Edgar Lemus" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Edgar Lemus</h3>
+            <p class="author-bio">Edgar is a map-maker and civic technologist with a background in Environmental Science, Policy and Management. At the IDB, he explores strategies in public service innovation in Latin America and the Caribbean. Particularly, through the deployment of open software for geostatistical analysis to improve the technical capacities of local governments, bridge the geographic data gap in the region, and build climate change resiliency.</p>
+        </div>
+    </div>
+
+<br>
+
+    <div class="author-box">
+        <img src="../images/DATUM_santiago_caballeros/natalia.jpg" alt="Natalia Vidigal Coachman" class="author-avatar">
+        <div class="author-content">
+            <h3 class="author-name">Natalia Vidigal Coachman</h3>
+            <p class="author-bio">Natalia Coachman is a Housing and Urban Development Consultant at the Inter-American Development Bank. Previously, she worked as an urban consultant for the World Bank Group, as a researcher for MIT CoLab and Civic Data Design Lab, and as an architect leading projects in diverse Latin American Countries. Natalia holds a Master’s in City Planning from Massachusetts Institute of Technology and a B.A. in Architecture and Urbanism from Escola da Cidade de Sao Paulo.</p>
+        </div>
+    </div>
+
+<br>
+
+</body>
+</html>
+
+
+
 
 
 ```
