@@ -35,7 +35,7 @@ And so, DATUM launched Mapeando Santiago in June 2019. The project includes trai
 
 ### Participation as a basic principle
 
-![Student volunteers from the Mapeando Santiago project](images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
+![Student volunteers from the Mapeando Santiago project](/images/DATUM_santiago_caballeros/002_voluntarios_santiago.png)
 ^Student volunteers from the Mapeando Santiago project. Source: IDB 2019^
 
 The Mapeando Santiago project placed special attention on the participation of city residents and on understanding the needs of regular transport users. In collaboration with Santiago municipal authorities, CDES, the Catholic Pontific University Madre y Maestra (PUCMM),transport operators and users, and organizations representing disabled groups, the mapping was guaranteed to be a truly inclusive community project. The participation of local groups encourages the continuation of the project in the long term, builds local capacity, and allows services and policies to be designed at the local level.
@@ -64,15 +64,15 @@ The need to collect information on public transport conditions and the importanc
 
 2. Five civil society organizations accompanied DATUM organizers as walking focus groups to evaluate the accessibility and security conditions on the way to and from public transport. The following areas of the city were analyzed:
 
-- Cienfuegos, the area of the city where public transport is most used according to the Integral Plan for Sustainable Urban Mobility (PIMUS), also deals with problems like inadequate infrastructure and informal housing.
+  - Cienfuegos, the area of the city where public transport is most used according to the Integral Plan for Sustainable Urban Mobility (PIMUS), also deals with problems like inadequate infrastructure and informal housing.
 
 ^In Cienfuegos, 12 members of community organizations evaluated security and accessibility. Source: IDB 2019^
 
-- In Los Pepines, a neighborhood where a school for the blind is located, accessibility was evaluated by 4 members of the Cibao Association of the Blind and 11 volunteers with visual disabilities.
+  - In Los Pepines, a neighborhood where a school for the blind is located, accessibility was evaluated by 4 members of the Cibao Association of the Blind and 11 volunteers with visual disabilities.
 
 ^Volunteers with visual disabilities identified obstacles and Shared mobility practices. Source: IDB 2019^
 
-- Additionally, 9 women, 1 man, and 1 child reviewed route security in the city center, the most common destination in the city, with a focus on gender issues.
+  - Additionally, 9 women, 1 man, and 1 child reviewed route security in the city center, the most common destination in the city, with a focus on gender issues.
 
 ^Participants from the Fundación Mujer e Iglesia, the coordinator of the group Mujeres del Cibao and the Núcleo de Apoyo a la Mujer joined the initiative to review security in the city center^
 
