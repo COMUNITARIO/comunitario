@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DATUM: un centro de recursos para el mapeo participativo de tránsito urbano"
-date:   2019-06-10
+date:   2019-09-20
 excerpt: "El caso de Santiago de los Caballeros"
 image: images/DATUM_santiago_caballeros/001_voluntaria.png
 tag:
@@ -11,7 +11,7 @@ tag:
 - community mapping
 ---
 
-Este artículo fue originalmente publicado el 10 de junio del 2019 al blog _Sustainable Cities_ del Banco Interamericano de Desarrollo. Desde entonces ya ha sido [archivado](https://web.archive.org/web/20260113002055/https://blogs.iadb.org/ciudades-sostenibles/en/datum-open-transit-mapping-dominican-republic-santiago-caballeros/) en ese blog y publicado aquí.
+Este artículo fue originalmente publicado el 20 de septiembre del 2019 al blog _Sustainable Cities_ del Banco Interamericano de Desarrollo. Desde entonces ya ha sido [archivado](https://web.archive.org/web/20250912193539/https://blogs.iadb.org/ciudades-sostenibles/es/datum-mapeo-participativo-transito-urbano-republica-dominicana-santiago-caballeros/) en ese blog y publicado aquí.
 
 ## The case of Santiago de los Caballeros
 
