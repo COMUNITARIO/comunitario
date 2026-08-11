@@ -172,11 +172,6 @@ We’d love to hear about successful applications of these tools in the comments
 
 
 
-View this post on Instagram
-
-
-*A post shared by BID Ciudades Sostenibles (@bid_ciudades) on Jun 6, 2019 at 10:11am PDT*
-
 
 #### Authors:
 
