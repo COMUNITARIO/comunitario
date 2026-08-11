@@ -12,7 +12,7 @@ tag:
 - launch
 ---
 
-This article was originally posted on November 26, 2019 to the Inter-American Development Bank blog _Abierto al Publico_. It has since been [archived](https://web.archive.org/web/20260118085458/https://blogs.iadb.org/conocimiento-abierto/en/open-urban-planning-toolbox/#building-detection-model) on that blog and posted here.
+This article was originally posted on November 26, 2019 to the Inter-American Development Bank blog _Abierto al Publico_. It has since been [archived](https://web.archive.org/web/20260118085458/https://blogs.iadb.org/conocimiento-abierto/en/open-urban-planning-toolbox/#building-detection-model) on that blog and posted here. A version of the toolbox remains active and can be explored [here](https://www.iadb.org/en/who-we-are/topics/urban-development-and-housing/digital-applications-urban-planning). 
 
 ## These open-source tools leverage machine learning and crowdsourced data for urban development in Latin America and the Caribbean
 
