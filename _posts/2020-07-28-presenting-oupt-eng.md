@@ -44,7 +44,7 @@ City planners often lack updated digital maps of existing buildings and structur
 
 ![Building Detection Model](../images/presenting_OUPT/Building-Detection-Model.png)
 
-***On the left,*** *a regular satellite image.* ***On the right,*** *the Building Detection Model colorizes the buildings it has identified.*
+##### ***On the left,*** *a regular satellite image.* ***On the right,*** *the Building Detection Model colorizes the buildings it has identified.*
 
 Beyond generating a map of existing structures, urban and housing agencies can use the model’s results to estimate population size, neighborhood density, access to resources, etc., and as a base across which to extrapolate household level information. In addition, these estimates can help with downstream tasks such as measuring and detecting unplanned/informal urban sprawl, informing planned interventions and the provision of urban ecosystem services to such areas.
 
@@ -66,7 +66,7 @@ As inputs, the model uses monochrome images with standardized size and boundarie
 
 ![Urban growth model](../images/presenting_OUPT/Urban-growth-model.png)
 
-*The model allows for the visualization of different growth scenarios, depending on the calibrations and inputs.*
+##### *The model allows for the visualization of different growth scenarios, depending on the calibrations and inputs.*
 
 Using these inputs, a regularized spatial logistic regression model predicts future urban growth on a pixel-by-pixel level within the determined boundaries, and outputs a binary raster file showing growth.
 
@@ -83,7 +83,7 @@ Even in relatively well-established urban areas, development can take place info
 
 ![OSM extraction tool](../images/presenting_OUPT/osm-extraction-tool.gif)
 
-*The tool allows analysts to pull data on specific attributes from a selected area.*
+##### *The tool allows analysts to pull data on specific attributes from a selected area.*
 
 Our OSM Extraction Tool eliminates the need to write any code and offers a more user-friendly and intuitive interface to extract relevant shapefiles and fill data gaps. The tool allows users to select specific areas; download detailed maps of roads, buildings, and other features in those areas; and update or add information to existing GIS data. Files downloaded from the OSM Extraction Tool can be conflated (selectively merged) with existing records using JOSM (Java OpenStreetMap) editor.
 
@@ -99,7 +99,7 @@ Paper records are still quite common for field data collection in many housing a
 
 ![Open map kit](../images/presenting_OUPT/open-map-kit.jpg)
 
-*Staff from Guyana’s Central Housing and Planning Authority train for field data collection with OMK.*
+##### *Staff from Guyana’s Central Housing and Planning Authority train for field data collection with OMK.*
 
 The kit consists of an Android mobile device and three software components: the OMK Server (which allows users to store and manage survey data), OMK Survey App (which allows users to create and edit digital surveys), and the OpenDataKit (ODK) Collection App (the main interface for users to collect survey data in the field).
 
@@ -117,7 +117,7 @@ At the national level, governments may lack recent detailed information on housi
 
 ![Housing Deficit](../images/presenting_OUPT/Deficit-Vivienda.png)
 
-***Left:*** *Qualitative housing deficit in the surrounding areas of Georgetown, Guyana, 2012.* ***Center:*** *Nocturnal luminosity extracted from satellite imagery of the same geographic area.* ***Right:*** *Estimated qualitative housing deficit, 2019*
+##### ***Left:*** *Qualitative housing deficit in the surrounding areas of Georgetown, Guyana, 2012.* ***Center:*** *Nocturnal luminosity extracted from satellite imagery of the same geographic area.* ***Right:*** *Estimated qualitative housing deficit, 2019*
 
 The Housing Deficit Estimator first uses a methodology based on a similar exercise by Colombia’s Department of Statistics (DANE) to numerically standardize the national quantitative and qualitative housing deficit by the smallest available administrative division.
 
@@ -138,7 +138,7 @@ Access to resources in cities can vary greatly from neighborhood to neighborhood
 
 ![GPE](../images/presenting_OUPT/gpe.png)
 
-*Georeferenced evaluation of the Culture Pass project in Buenos Aires.*
+##### *Georeferenced evaluation of the Culture Pass project in Buenos Aires.*
 
 Developed to analyze the impact of Culture Pass, a program to [broaden youth access to the extensive cultural life in Buenos Aires](https://obs.agenda21culture.net/en/good-practices/buenos-aires-culture-pass), this R package includes functions that will allow the user to:
 
