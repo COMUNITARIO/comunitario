@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presenting the Open Urban Planning Toolbox"
-date:   2019-11-26
+date:   2020-07-28
 excerpt: "These open-source tools leverage machine learning and crowdsourced data for urban development in Latin America and the Caribbean"
 image: images/presenting_OUPT/banner-urban-toolbox.png
 tag:
@@ -12,9 +12,11 @@ tag:
 - launch
 ---
 
-This article was originally posted on November 26, 2019 to the Inter-American Development Bank blog _Abierto al Publico_. It has since been [archived](https://web.archive.org/web/20260118085458/https://blogs.iadb.org/conocimiento-abierto/en/open-urban-planning-toolbox/#building-detection-model) on that blog and posted here. A version of the toolbox remains active and can be explored [here](https://www.iadb.org/en/who-we-are/topics/urban-development-and-housing/digital-applications-urban-planning). 
+This article was originally posted on July 28, 2020 to the Inter-American Development Bank blog _Abierto al Publico_. It has since been [archived](https://web.archive.org/web/20260118085458/https://blogs.iadb.org/conocimiento-abierto/en/open-urban-planning-toolbox/#building-detection-model) on that blog and posted here. A version of the toolbox remains active and can be explored [here](https://www.iadb.org/en/who-we-are/topics/urban-development-and-housing/digital-applications-urban-planning).
 
 ## These open-source tools leverage machine learning and crowdsourced data for urban development in Latin America and the Caribbean
+
+Este artículo está también disponible en / This post is also available in: [Español](./2019-11-26-presenting-oupt-esp.md)
 
 “We don’t have data on that.” We hear these words repeatedly while working on urban development projects with cities and countries in Latin America and the Caribbean. This is problematic when we consider the region’s population is already 80% urban. Considering the digital revolution, Latin American and Caribbean cities should be poised to generate, analyze, and disseminate urban data. Yet, all too often, our partners do not have the tools necessary for delivering urban services to informal areas, identifying and allocating lands best suited for development while protecting at-risk areas, and working with individual families to assess and improve housing conditions, among other tasks. Much of the existing technology available to support this work is either too expensive, difficult to use, or not designed for the specific conditions of cities in a developing country.
 
@@ -167,6 +169,8 @@ Open-source software is made stronger by the community that contributes to it. W
 As we continue to add to our Toolbox, we will always follow key values: a shared commitment to open data and open-source tech; improved access to cutting-edge techniques, such as artificial intelligence, through active collaboration with global partners; and a focus on the participatory and democratic use of digital technology.
 
 We’d love to hear about successful applications of these tools in the comments below. Also, please feel free to reach out for new opportunities to collaborate at pzambrano@iadb.org.
+
+***Note: This article has been updated to reflect the incorporation of new tools to the toolbox. The original version was published on May 15, 2019.***
 
 
 
