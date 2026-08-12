@@ -41,8 +41,7 @@ Estas herramientas se desarrollaron aprovechando la experiencia académica y del
 Los planificadores urbanos muchas veces carecen de mapas digitales actualizados de inmuebles y estructuras urbanas existentes. El Detector de Inmuebles genera un mapa básico de edificios de manera automática usando imágenes satelitales. Usa segmentación semántica, que es el proceso de asignar cada píxel de una imagen a una categoría: en este caso, las categorías son ‘edificación’ o ‘no edificación’. Esto permite que los planificadores generen archivos digitales detallados de áreas remotas o difíciles de acceder, como el interior de Guyana, donde nuestros socios están actualmente planeando intervenciones de vivienda.
 
 ![Building Detection Model](../images/presenting_OUPT/Building-Detection-Model.png)
-
-***A la izquierda,*** *una imagen de satélite normal.* ***A la derecha,*** *el Detector de Inmuebles colorea los edificios identificados.*
+##### ***A la izquierda,*** *una imagen de satélite normal.* ***A la derecha,*** *el Detector de Inmuebles colorea los edificios identificados.*
 
 Más allá de generar un mapa de las estructuras existentes, las agencias de vivienda y planeación urbana pueden usar los resultados del modelo para estimar la población, densidad de barrios, acceso a recursos, etc., y como datos base para extrapolar estadísticos a nivel de hogar. Además, estas estimaciones pueden ser útiles para tareas de planificación urbana como la identificación y planeación de zonas informales/no planificadas, la información de intervenciones planeadas y el diseño y desarrollo de servicios urbanos.
 
@@ -63,7 +62,6 @@ Mientras los modelos que predicen el crecimiento urbano no son nuevos, históric
 Como insumos, el modelo usa imágenes monocromáticas de un tamaño y límite estandarizado preparadas a partir de imágenes satelitales de un área urbana. Estas imágenes pueden ser también representaciones en formato raster de mapas físicos, mapas de densidad, o mapas que denotan límites administrativos o sociales, dependiendo de las condiciones del área urbana y la discreción del modelador. Rasgos de atracción incluirán, por ejemplo, proximidad a las estaciones de tránsito, y se les asignará un peso positivo; rasgos restrictores incluirán condiciones como riesgo de inundación o tierras de conservación, y se les asignará un peso negativo.
 
 ![Urban growth model](../images/presenting_OUPT/Urban-growth-model.png)
-
 ##### *El modelo permite la visualización de escenarios de crecimiento distintos, dependiendo de las calibraciones e insumos.*
 
 Usando estos insumos, un modelo regularizado de regresión logística espacial  predice el crecimiento urbano a nivel de píxel dentro de los límites determinados, y produce un archivo binario raster que muestra el crecimiento proyectado.  
@@ -80,8 +78,7 @@ Ver el repositorio aquí.
 Incluso en áreas urbanas relativamente bien establecidas, el desarrollo puede realizarse de manera informal o sin registros completos. Por suerte, la plataforma OpenStreetMap (OSM) emplea el crowd-sourcing (la generación de datos por colaboración masiva) para generar datos detallados a nivel de edificaciones. Sin embargo, no es siempre fácil bajar estos datos. Previamente, un API llamado Overpass ha proveído acceso a estos datos, pero su uso requiere conocimiento de su propio lenguaje de consultas, lo cual puede ser un obstáculo considerable para planificadores urbanos que no tienen entrenamiento en programación.  
 
 ![OSM extraction tool](../images/presenting_OUPT/osm-extraction-tool.gif)
-
-*La herramienta permite que los analistas bajen datos sobre atributos específicos de un área seleccionada.*
+##### *La herramienta permite que los analistas bajen datos sobre atributos específicos de un área seleccionada.*
 
 Nuestra herramienta de Extracción de Datos OSM elimina la necesidad de escribir código y ofrece una interfaz más intuitiva y amigable al usuario para extraer los archivos de forma relevantes y así llenar vacíos de información. Con esta herramienta, un usuario puede seleccionar un área específica; bajar mapas detallados de calles, edificios, y otros atributos en esa área; y actualizar o agregar información a los datos internos en sus SIGs (Sistemas de Información Geográfica). Los archivos obtenidos a través de la Extracción de Datos OSM pueden ser integrados (selectivamente fusionados) con registros existentes usando el editor JOSM (Java OpenStreetMap).  
 
@@ -96,8 +93,7 @@ Nuestra herramienta de Extracción de Datos OSM elimina la necesidad de escribir
 Los registros en papel son aún bastante comunes en la recolección de datos en campo para muchas agencias de vivienda, donde la infraestructura requerida para crear, implementar, y mantener datos de encuestas puede representar barreras de pago o requerir alto conocimiento técnico. OpenMapKit (OMK) soluciona una de las necesidades más inmediatas para estas agencias – recolectar y gestionar datos desde el campo, incorporando georreferenciación automática en el proceso de recolección.
 
 ![Open map kit](../images/presenting_OUPT/open-map-kit.jpg)
-
-*Personal de la Autoridad Central de Vivienda y Planeación de Guyana se entrena en recolección de datos en campo con OMK.*
+##### *Personal de la Autoridad Central de Vivienda y Planeación de Guyana se entrena en recolección de datos en campo con OMK.*
 
 El kit consiste en un aparato móvil Android y tres componentes de software: el Servidor OMK (donde los datos de encuesta se alojan y se gestionan), la Aplicación OMK Survey (que permite la creación y edición de encuestas digitales) y la aplicación OpenDataKit (ODK) Collection (la interfaz a través de la cual los usuarios recolectan datos de encuestas en campo).  
 
@@ -114,8 +110,7 @@ Las encuestas se crean en la oficina con una simple interfaz de “arrastrar y s
 A nivel nacional, los gobiernos pueden carecer de información detallada y reciente sobre las necesidades de vivienda. La comprensión incompleta o desactualizada puede dar lugar a políticas bien intencionadas pero derrochadoras que no abordan los problemas más apremiantes. Un ejemplo clásico de este problema es ‘construir viviendas en el desierto’, en el que un gobierno gasta millones para construir más casas lejos de los empleos y servicios, cuando de hecho los problemas de los residentes se habrían abordado mejor, y a un costo menor de si hubieran recibido subsidios para hacer mejoras en los hogares más centrales donde ya están viviendo.
 
 ![Housing Deficit](../images/presenting_OUPT/Deficit-Vivienda.png)
-
-***Izquierda:*** *Déficit de vivienda cualitativo en los alrededores de Georgetown, Guyana, 2012.* ***Centro:*** *Luminosidad nocturna extraída de imágenes satelitales de la misma área geográfica.* ***Derecha:*** *Déficit de vivienda cualitativo (estimado), 2019*
+##### ***Izquierda:*** *Déficit de vivienda cualitativo en los alrededores de Georgetown, Guyana, 2012.* ***Centro:*** *Luminosidad nocturna extraída de imágenes satelitales de la misma área geográfica.* ***Derecha:*** *Déficit de vivienda cualitativo (estimado), 2019*
 
 El **Estimador del déficit de vivienda** utiliza primero una metodología basada en un ejercicio parecido realizado por el Departamento Administrativo Nacional de Estadística de Colombia (DANE) para estandarizar numéricamente el déficit de vivienda cuantitativo y cualitativo nacional por la división administrativa más pequeña disponible.
 
@@ -135,8 +130,7 @@ Finalmente, utilizando una metodología popularizada por el Banco Mundial, el Es
 El acceso a los recursos en las ciudades puede variar mucho de barrio a barrio, según el nivel socioeconómico de su población. Un programa social exitoso debe abordar esas asimetrías de frente, activamente buscando proveer servicios en áreas de la ciudad que típicamente carecen de recursos. Este paquete R provee análisis y visualización geográficos de los servicios accedidos dentro de una ciudad, así permitiendo la verificación de si un programa llegó a los barrios de más necesidad, el estudio de patrones de uso a lo largo de la ciudad, u otra evaluación del impacto geográfico del programa.
 
 ![GPE](../images/presenting_OUPT/gpe.png)
-
-*Evaluación georreferenciada del proyecto Pase Cultural en Buenos Aires.*
+##### *Evaluación georreferenciada del proyecto Pase Cultural en Buenos Aires.*
 
 Desarrollado para analizar el impacto de Pase Cultural, un programa para ampliar el acceso a la extensa vida cultural en Buenos Aires a los jóvenes, este paquete instalable de R contiene funciones que permitan:
 
